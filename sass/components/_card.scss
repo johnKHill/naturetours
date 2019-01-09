@@ -44,7 +44,6 @@
     &:hover &__side--back {
         transform: rotateY(0);
     }
-
     // FRONT SIDE STYLING
     &__picture {
         background-size: cover;
@@ -123,7 +122,6 @@
             }
         }
     }
-
     // Back SIDE STYLING
     &__cta {
         position: absolute;
